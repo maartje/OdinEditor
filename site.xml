@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/OdinFeature_1.0.0.201309081028.jar" id="OdinFeature" version="1.0.0.201309081028"/>
+   <feature url="features/OdinFeature_1.0.0.201309082325.jar" id="OdinFeature" version="1.0.0.201309082325">
+      <category name="odin"/>
+   </feature>
+   <category-def name="odin" label="Odin"/>
 </site>
